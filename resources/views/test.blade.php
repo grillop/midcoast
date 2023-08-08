@@ -71,7 +71,7 @@
                 </div>
                 <div class="columns">
                     <div class="column  is-full is-center">
-                        <div
+                        <div style="line-height: 1"
                             class="has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
                             Let us shop, stock, and store for you!
                         </div>
