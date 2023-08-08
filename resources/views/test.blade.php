@@ -62,22 +62,18 @@
 
             <div class="is-hidden-desktop is-overlay">
                 <div class="columns">
-                    <div class="column is-full is-center mt-4 pt-6 ">
+                    <div class="column is-full is-center mt-6  ">
                         <div style="line-height: 1"
-                            class="has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
+                            class=" mt-6 has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
                             Enjoy a stress-free arrival <br /> on your next getaway.
                         </div>
-                    </div>
-                </div>
-                <div class="columns">
-                    <div class="column  is-full is-center">
-                        <div style="line-height: 1"
-                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
+                        <div
+                            class=" pt-2 has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
                             Let us shop, stock, and store for you!
                         </div>
                     </div>
                 </div>
-            </div>
+             </div>
         </div>
     </section>
 
