@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+// 1. Import the initial variables
+@import "../../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../../node_modules/bulma/sass/utilities/functions";
+// Update Bulma's global variables
+$sea: #b0ccc9;
+$sea-invert: findColorInvert($sea);
+$custom-colors: ("sea": ($sea, $sea-invert));
+$body-background-color: $sea;
+.has-text-outlined {
+    text-shadow:
+      1.5px 0 rgb(29, 26, 26),
+      0 -1.5px rgb(29, 26, 26),
+      -1.5px 0 rgb(29, 26, 26),
+      0 1.5px rgb(29, 26, 26);
+  }
+@import "../../../node_modules/bulma/bulma.sass";
+
