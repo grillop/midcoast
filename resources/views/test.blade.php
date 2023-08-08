@@ -58,7 +58,7 @@
             </div>
 
 
-            <div class="is-hidden-desktop is-overlay">
+            <div class="is-hidden-tablet is-overlay">
                 <div class="columns">
                     <div class="column is-full is-center mt-6  ">
                         <div style="line-height: 1"
