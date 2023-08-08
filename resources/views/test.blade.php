@@ -62,7 +62,7 @@
 
             <div class="is-hidden-desktop is-overlay">
                 <div class="columns">
-                    <div class="column is-full is-center mt-5 ">
+                    <div class="column is-full is-center mt-4 pt-6 ">
                         <div style="line-height: 1"
                             class="has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
                             Enjoy a stress-free arrival <br /> on your next getaway.
@@ -72,7 +72,7 @@
                 <div class="columns">
                     <div class="column  is-full is-center">
                         <div style="line-height: 1"
-                            class="has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
+                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
                             Let us shop, stock, and store for you!
                         </div>
                     </div>
