@@ -48,10 +48,7 @@
                             class="mt-6 pt-6 has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
                             Enjoy a stress-free arrivals <br />on your next getaway.
                         </div>
-                    </div>
-                </div>
-                <div class="columns">
-                    <div class="column  is-full is-center">
+
                         <div
                             class="has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
                             Let us shop, stock, and store for you!
@@ -59,6 +56,7 @@
                     </div>
                 </div>
             </div>
+
 
             <div class="is-hidden-desktop is-overlay">
                 <div class="columns">
@@ -68,12 +66,12 @@
                             Enjoy a stress-free arrival <br /> on your next getaway.
                         </div>
                         <div
-                            class=" pt-2 has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
+                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
                             Let us shop, stock, and store for you!
                         </div>
                     </div>
                 </div>
-             </div>
+            </div>
         </div>
     </section>
 
