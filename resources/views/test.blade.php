@@ -64,7 +64,7 @@
                 <div class="columns">
                     <div class="column is-full is-center mt-6  ">
                         <div style="line-height: 1"
-                            class=" mt-6 has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
+                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
                             Enjoy a stress-free arrival <br /> on your next getaway.
                         </div>
                         <div
