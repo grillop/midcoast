@@ -4640,7 +4640,7 @@ button.dropdown-item.is-active {
 }
 
 .navbar {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #b0ccc9;
   min-height: 3.25rem;
   position: relative;
   z-index: 30;
@@ -5470,7 +5470,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     display: none;
   }
   .navbar-menu {
-    background-color: hsl(0, 0%, 100%);
+    background-color: #b0ccc9;
     box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
     padding: 0.5rem 0;
   }

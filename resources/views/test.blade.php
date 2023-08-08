@@ -10,7 +10,7 @@
 
 <body>
 
-    <nav class="navbar is-sea has-shadow">
+    <nav class="navbar is-fixed-top is-sea has-shadow">
         <!-- logo / brand -->
         <div class="navbar-brand text-bold">
             <div class="ml-2">
@@ -24,7 +24,7 @@
             </a>
         </div>
 
-        <div class="navbar-menu" id="nav-links">
+        <div class="navbar-menu is-danger" id="nav-links">
             <!-- right links -->
             <div class="navbar-end">
                 <a class="navbar-item has-text-weight-bold">Home</a>
@@ -41,7 +41,7 @@
                 <img src="img/maine.jpg" />
             </figure>
 
-            <div class="is-hidden-touch is-overlay">
+            <div class="is-hidden-mobile is-overlay">
                 <div class="columns">
                     <div class=" column is-full is-center mt-6 pt-6">
                         <div style="line-height: 1"
