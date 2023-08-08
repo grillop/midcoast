@@ -10,7 +10,7 @@
 
 <body>
 
-    <nav class="navbar is-fixed-top is-sea has-shadow">
+    <nav class="navbar is-sea has-shadow">
         <!-- logo / brand -->
         <div class="navbar-brand text-bold">
             <div class="ml-2">
