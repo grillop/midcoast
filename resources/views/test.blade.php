@@ -40,13 +40,12 @@
     </div>
     <section>
         <div class="columns">
-            <div class="column is-2">
+            <div class="column is-2 pt-1 pb-0">
             </div>
             <div class="column is-8">
                 <article class="media">
 
                     <div class="media-content is-size-5-mobile is-size-4-tablet px-5" style="line-height: 1.2">
-
                         <p class=" p-1 has-text-centered is-size-3 is-size-4-mobile is-italic">Let us shop, stock, and store for you!</p>
                         <p class="p-2">Imagine arriving at your vacation rental with the kitchen fully stocked and
                             all of your preselected provisions are already stowed away.</p>
@@ -58,7 +57,7 @@
                     </div>
                 </article>
             </div>
-            <div class="column is-2">
+            <div class="column is-2 pt-1 pb-0">
             </div>
         </div>
     </section>
