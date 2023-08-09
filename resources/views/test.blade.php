@@ -53,7 +53,7 @@
                             meal in the fridge awaiting your preparation.</p>
                         <p class="p-2">No need to rush off to the market upon arrival or hassle with putting
                             everything away.</p>
-                        <p class="p-2">You can just settle in and let your vacation begin! Ahhh…</p>
+                        <p class="p-2">You can just settle in and let your vacation begin!<br/><span class="is-size-3 is-size-4-mobile is-italic"> Ahhh…</span></p>
                     </div>
                 </article>
             </div>
