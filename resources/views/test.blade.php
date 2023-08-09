@@ -74,6 +74,28 @@
             </div>
         </div>
     </section>
+<section>
+    <div class="columns">
+        <div class="column is-2">
+        </div>
+        <div class="column is-8 m-2">
+            <article class="media m-2">
+
+                <div class="media">
+                    <div class="media-content is-size-5" style="line-height: 1">
+                        <p class="p-2">Imagine arriving at your vacation rental with the kitchen fully stocked and all of your preselected provisions are already stowed away.</p>
+                        <p class="p-2">Beverages are chilled, snacks are grab ready and ingredients for your next meal in the fridge awaiting your preparation.</p>
+                        <p class="p-2">No need to rush off to the market upon arrival or hassle with putting everything away.</p>
+                        <p class="p-2">You can just settle in and let your vacation begin! Ahhh…</p>
+                    </div>
+                </div>
+
+            </article>
+        </div>
+        <div class="column is-3">
+        </div>
+                </div>
+</section>
 
 
 
