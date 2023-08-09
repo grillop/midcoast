@@ -32,9 +32,6 @@
         Enjoy a stress-free arrival <br />on your next getaway.
     </div>
 
-
-
-
     <div class="card">
         <figure class="image">
             <img src="img/maine.jpg" />
@@ -50,7 +47,7 @@
 
                     <div class="media-content is-size-5-mobile is-size-4-tablet px-5" style="line-height: 1.2">
 
-                        <p class=" p-2 has-text-centered is-size-3 is-size-4-mobile is-italic">Let us shop, stock, and store for you!</p>
+                        <p class=" p-1 has-text-centered is-size-3 is-size-4-mobile is-italic">Let us shop, stock, and store for you!</p>
                         <p class="p-2">Imagine arriving at your vacation rental with the kitchen fully stocked and
                             all of your preselected provisions are already stowed away.</p>
                         <p class="p-2">Beverages are chilled, snacks are grab ready and ingredients for your next

@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
+@extends('layouts.default')
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Midcoast Provisioning</title>
-    <link rel="stylesheet" href="{{ asset('../css/app.css') }}">
-</head>
-
-<body>
-
+@section('content')
     <nav class="navbar is-sea has-shadow">
         <!-- logo / brand -->
         <div class="navbar-brand text-bold">
@@ -35,45 +26,18 @@
         </div>
     </nav>
     <!-- Main -->
-    <section class="section">
-        <div class="card">
-            <figure class="image">
-                <img src="img/maine.jpg" />
-            </figure>
-
-            <div class="is-hidden-mobile is-overlay">
-                <div class="columns">
-                    <div class=" column is-full is-center mt-6 pt-6">
-                        <div style="line-height: 1"
-                            class="mt-6 pt-6 has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
-                            Enjoy a stress-free arrivals <br />on your next getaway.
-                        </div>
-
-                        <div
-                            class="has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
-                            Let us shop, stock, and store for you!
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
-            <div class="is-hidden-tablet is-overlay">
-                <div class="columns">
-                    <div class="column is-full is-center mt-6  ">
-                        <div style="line-height: 1"
-                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-4-mobile is-size-2">
-                            Enjoy a stress-free arrival <br /> on your next getaway.
-                        </div>
-                        <div
-                            class=" has-text-centered has-text-white has-text-outlined is-italic is-size-6-mobile is-size-4">
-                            Let us shop, stock, and store for you!
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <div style="line-height: 1" class="mt-3 pb-4 has-text-centered is-italic is-size-4-mobile is-size-2">
+        Enjoy a stress-free arrival <br />on your next getaway.
+    </div>
+
+    <div class="card">
+        <figure class="image">
+            <img src="img/maine.jpg" />
+        </figure>
+
+    </div>
     <section>
         <div class="columns">
             <div class="column is-2">
@@ -82,6 +46,8 @@
                 <article class="media">
 
                     <div class="media-content is-size-5-mobile is-size-4-tablet px-5" style="line-height: 1.2">
+
+                        <p class=" p-2 has-text-centered is-size-3 is-size-4-mobile is-italic">Let us shop, stock, and store for you!</p>
                         <p class="p-2">Imagine arriving at your vacation rental with the kitchen fully stocked and
                             all of your preselected provisions are already stowed away.</p>
                         <p class="p-2">Beverages are chilled, snacks are grab ready and ingredients for your next
@@ -96,10 +62,6 @@
             </div>
         </div>
     </section>
-
-
-
-    <script src="/js/index.js"></script>
-</body>
+@endsection
 
 </html>
