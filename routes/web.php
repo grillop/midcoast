@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\IdeaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,3 +32,7 @@ Route::get('/test', function () {
 Route::get('/welcome', function () {
     return view('welcome');
 });
+
+Route::get('/ideas', [IdeaController::class, 'index']);
+Route::get('/auto', [IdeaController::class, 'ideas']);
+
