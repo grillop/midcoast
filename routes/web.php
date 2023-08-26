@@ -36,3 +36,11 @@ Route::get('/welcome', function () {
 Route::get('/ideas', [IdeaController::class, 'index']);
 Route::get('/auto', [IdeaController::class, 'ideas']);
 
+
+Route::view('dashboard', 'dashboard')
+	->name('dashboard')
+	->middleware(['auth', 'verified']);
+
+Route::view('dashboard', 'dashboard')
+	->name('dashboard')
+	->middleware(['auth', 'verified']);
